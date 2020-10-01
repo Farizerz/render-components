@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Farizerz/render-components/static/css/main.d11489af.chunk.css",
-    "main.js": "/Farizerz/render-components/static/js/main.b587708e.chunk.js",
-    "main.js.map": "/Farizerz/render-components/static/js/main.b587708e.chunk.js.map",
-    "runtime-main.js": "/Farizerz/render-components/static/js/runtime-main.b2793a53.js",
-    "runtime-main.js.map": "/Farizerz/render-components/static/js/runtime-main.b2793a53.js.map",
-    "static/js/2.d5ead2fa.chunk.js": "/Farizerz/render-components/static/js/2.d5ead2fa.chunk.js",
-    "static/js/2.d5ead2fa.chunk.js.map": "/Farizerz/render-components/static/js/2.d5ead2fa.chunk.js.map",
-    "index.html": "/Farizerz/render-components/index.html",
-    "precache-manifest.b1ae0e2f3e65ce476f8a20f8abb77f38.js": "/Farizerz/render-components/precache-manifest.b1ae0e2f3e65ce476f8a20f8abb77f38.js",
-    "service-worker.js": "/Farizerz/render-components/service-worker.js",
-    "static/css/main.d11489af.chunk.css.map": "/Farizerz/render-components/static/css/main.d11489af.chunk.css.map",
-    "static/js/2.d5ead2fa.chunk.js.LICENSE.txt": "/Farizerz/render-components/static/js/2.d5ead2fa.chunk.js.LICENSE.txt"
+    "main.css": "/render-components/static/css/main.d11489af.chunk.css",
+    "main.js": "/render-components/static/js/main.b587708e.chunk.js",
+    "main.js.map": "/render-components/static/js/main.b587708e.chunk.js.map",
+    "runtime-main.js": "/render-components/static/js/runtime-main.5ddb318d.js",
+    "runtime-main.js.map": "/render-components/static/js/runtime-main.5ddb318d.js.map",
+    "static/js/2.d5ead2fa.chunk.js": "/render-components/static/js/2.d5ead2fa.chunk.js",
+    "static/js/2.d5ead2fa.chunk.js.map": "/render-components/static/js/2.d5ead2fa.chunk.js.map",
+    "index.html": "/render-components/index.html",
+    "precache-manifest.a88f27e722babc0f317c654c4cb733d3.js": "/render-components/precache-manifest.a88f27e722babc0f317c654c4cb733d3.js",
+    "service-worker.js": "/render-components/service-worker.js",
+    "static/css/main.d11489af.chunk.css.map": "/render-components/static/css/main.d11489af.chunk.css.map",
+    "static/js/2.d5ead2fa.chunk.js.LICENSE.txt": "/render-components/static/js/2.d5ead2fa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b2793a53.js",
+    "static/js/runtime-main.5ddb318d.js",
     "static/js/2.d5ead2fa.chunk.js",
     "static/css/main.d11489af.chunk.css",
     "static/js/main.b587708e.chunk.js"
