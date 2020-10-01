@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fe407cbd22802551158208586555da69",
+    "revision": "d28b021743c079aa6ce25cbbc1dffd03",
     "url": "/Farizerz/render-components/index.html"
   },
   {

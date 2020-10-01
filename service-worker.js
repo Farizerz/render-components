@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Farizerz/render-components/precache-manifest.c8f44c9b1d668028a89756a9a0dd1d67.js"
+  "/Farizerz/render-components/precache-manifest.b1ae0e2f3e65ce476f8a20f8abb77f38.js"
 );
 
 self.addEventListener('message', (event) => {
