@@ -1,0 +1,32 @@
+.list {
+    color: whitesmoke;
+    width: 300px;
+    background-color: teal;
+    height: 50px;
+    margin: 20px auto;
+    border-radius: 5px;
+}
+
+.list p {
+    padding: 10px;
+    position: relative;
+}
+
+.list p span {
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+}
+
+.list p input {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: whitesmoke;
+    font-size: 18px;
+}
+
+.faicons {
+    margin: 0 5px;
+    font-size: 15px;;
+}
