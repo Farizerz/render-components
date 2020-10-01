@@ -2,7 +2,7 @@
   "name": "render-components",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://farizerz.github.io/render-components",
+  "homepage": "https://farizerz.github.io/render-components",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.31",
     "@fortawesome/free-solid-svg-icons": "^5.15.0",
