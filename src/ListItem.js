@@ -3,7 +3,7 @@ import './ListItem.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import FlipMove from 'react-flip-move';
 
-const ListItem = (props) => {
+const ListItem = (props) => { 
     const items = props.items;
     const ListItem = items.map(item => {
         return <div className="list" key={item.key}>
